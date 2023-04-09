@@ -1,0 +1,10 @@
+print('привет)
+b = input(int('введи своё имя")
+prin('привет',b)
+a = int(inpt('Сколько будет 10-2'))
+print('a)
+s = inpt('сколько время?')
+print(сейчас',s)
+for i in rang('dkaasdfa'):
+    print('fkjas'))
+print = ('Пока')
